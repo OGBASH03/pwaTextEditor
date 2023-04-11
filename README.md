@@ -16,6 +16,8 @@ PWA-TEXT EDITOR
 ## Description
 This is a text editor web application that allows users to create, edit and save text documents. The application has a client-server folder structure that is visible when opened in an editor. When the application is run using the command npm run start from the root directory, the backend server is started and the client is served. The JavaScript files are bundled using webpack and the generated HTML file, service worker, and manifest file are created using webpack plugins.
 
+![Text Editor](/assets/pics/Text-Editor.png)
+
 ## Usage
 
 Open the application in a web browser.
